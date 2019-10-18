@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Code\main.cpp" />
+    <ClCompile Include="Code\Material.cpp" />
+    <ClCompile Include="Code\Mesh.cpp" />
+    <ClCompile Include="Code\Transform.cpp" />
+    <ClCompile Include="Code\Texture.cpp" />
+    <ClCompile Include="Code\Camera.cpp" />
+    <ClCompile Include="Code\FrameBuffer.cpp" />
+    <ClCompile Include="Code\CubeMap.cpp" />
+    <ClCompile Include="Code\PointLight.cpp" />
+    <ClCompile Include="Code\SpotLight.cpp" />
+    <ClCompile Include="Code\BezierSurface.cpp" />
+    <ClCompile Include="Code\TicTacGrid.cpp" />
+    <ClCompile Include="Code\Quad.cpp" />
+    <ClCompile Include="Code\Sphere.cpp" />
+    <ClCompile Include="Code\Player.cpp" />
+    <ClCompile Include="Code\Enemy.cpp" />
+    <ClCompile Include="Code\AStar.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Code\Material.h" />
+    <ClInclude Include="Code\Mesh.h" />
+    <ClInclude Include="Code\Transform.h" />
+    <ClInclude Include="Code\Texture.h" />
+    <ClInclude Include="Code\Camera.h" />
+    <ClInclude Include="Code\FrameBuffer.h" />
+    <ClInclude Include="Code\Screen.h" />
+    <ClInclude Include="Code\CubeMap.h" />
+    <ClInclude Include="Code\PointLight.h" />
+    <ClInclude Include="Code\SpotLight.h" />
+    <ClInclude Include="Code\BezierSurface.h" />
+    <ClInclude Include="Code\TicTacGrid.h" />
+    <ClInclude Include="Code\Quad.h" />
+    <ClInclude Include="Code\Sphere.h" />
+    <ClInclude Include="Code\Position.h" />
+    <ClInclude Include="Code\Player.h" />
+    <ClInclude Include="Code\Enemy.h" />
+    <ClInclude Include="Code\AStar.h" />
+  </ItemGroup>
+</Project>
